@@ -3,7 +3,10 @@ In this repo we present
 -  **AraEGI**:  Our newly annotated dataset for gender identification of both of the *Speaker* and the *Listener* in Arabic Egyptian Dialect Tweets. 
 - **Models Checkpoint**: We present best performing model checkpoints, all trained with our dataset, to serve as benchmarks for all future research.
 
-All details are in [our paper]()
+
+All details are in [our paper]() published in the IEEE International Symposium on Computer and Communication (IEEE-ISCC 2024),Paris.
+
+![alt text](./imgs/paris-1768702-1100x300.jpg)
 
 ## AraEGI Datasets
 
