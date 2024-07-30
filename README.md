@@ -4,7 +4,7 @@ In this repo we present
 - **Models Checkpoint**: We present best performing model checkpoints, all trained with our dataset, to serve as benchmarks for all future research.
 
 
-All details are in [our paper]() published in the IEEE International Symposium on Computer and Communication (IEEE-ISCC 2024),Paris.
+All details are in [our paper](https://www.researchgate.net/publication/382307481_AraEGI_Arabic_Gender_Identification_Using_Transformers_for_Egyptian_Dialect) published in the IEEE International Symposium on Computer and Communication (IEEE-ISCC 2024),Paris.
 
 ![alt text](./imgs/paris-1768702-1100x300.jpg)
 
